@@ -1,42 +1,6 @@
-/* .tituloAzul{
-    color: blue;
-    font-size: 40px;
-    font-family: Arail, Helvet;
-} */
-
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh
-}
-
-section{
-    height: 50vh;
-    width: 50vw;
-    background-color: rgb(236, 234, 234);
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
-button{
-    width: 20vw;
-    height: 6vh;
-    border-radius: 5px;
-    cursor: pointer;
-    background-color: black;
-    margin-bottom: 2vh;
-    color: white;
-}
-
-.sumir{
-    display: none;
-}
-
-#usuario{
-    background-color: rgb(2, 85, 2);
+.teste2 {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: red;
 }
